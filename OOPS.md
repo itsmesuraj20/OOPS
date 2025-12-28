@@ -1,4 +1,3 @@
-/*
 ===============================================================================
     COMPLETE OBJECT-ORIENTED PROGRAMMING (OOP) GUIDE - C++
     From Zero to Hero - All Concepts, Patterns & Best Practices
