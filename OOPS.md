@@ -1,7 +1,9 @@
+/*
 ===============================================================================
     COMPLETE OBJECT-ORIENTED PROGRAMMING (OOP) GUIDE - C++
     From Zero to Hero - All Concepts, Patterns & Best Practices
 ===============================================================================
+Language : C++ 
 
 TABLE OF CONTENTS:
 Part 1: OOP Fundamentals (Classes & Objects)
